@@ -1,0 +1,4 @@
+__pycache__/
+dataset/for-yolo/
+venv/
+dataset/testing/out.mp4
