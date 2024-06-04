@@ -2,6 +2,7 @@
 
 This repository contains a vehicle and license plate detection system built using YOLO (You Only Look Once) models for real-time object detection and SORT (Simple Online and Realtime Tracking) for object tracking. The system is designed to detect vehicles, track them across video frames, and read license plate numbers using Optical Character Recognition (OCR).
 
+#### - Example video (Click on the thumbnail to play):
 [![Watch the video](image-and-video/Screenshot.jpg)](https://youtu.be/wg_O1hR_D8M "Watch video")
 
 ## Table of Contents
