@@ -1,4 +1,4 @@
-# License Plate Detection System using YOLOv8
+# License Plate Detection System using YOLOv8 and EasyOCR
 
 This repository contains a vehicle and license plate detection system built using YOLO (You Only Look Once) models for real-time object detection and SORT (Simple Online and Realtime Tracking) for object tracking. The system is designed to detect vehicles, track them across video frames, and read license plate numbers using Optical Character Recognition (OCR).
 
